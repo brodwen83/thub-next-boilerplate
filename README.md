@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, create a .env.local file and store your MONGODB_URI connection string:
 
 ```bash
 npm run dev
